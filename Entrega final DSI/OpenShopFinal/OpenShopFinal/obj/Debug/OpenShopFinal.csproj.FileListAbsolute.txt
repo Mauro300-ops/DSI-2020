@@ -1,0 +1,14 @@
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.exe.config
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.exe
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.pdb
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.csprojAssemblyReference.cache
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.exe
+C:\Users\Mauro Enrico\source\repos\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.pdb
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.exe.config
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.exe
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\bin\Debug\OpenShopFinal.pdb
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.csprojAssemblyReference.cache
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.exe
+C:\Users\Mauro Enrico\Desktop\Mis cosas\UTN\DSI\OpenShopFinal\OpenShopFinal\obj\Debug\OpenShopFinal.pdb
